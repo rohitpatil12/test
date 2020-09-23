@@ -2,5 +2,4 @@ Sasuke
 Uchiha
 Itachi
 Uchiha
-testing
-hebi
+hebi clan
